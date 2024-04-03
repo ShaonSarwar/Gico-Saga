@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TowerCOllider
+  - Insulator
+  - UILevel
+  - Leaderboard
+  - BorderCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LevelLocked
+    uniqueID: 128647807
+    locked: 0
+  - name: Background
+    uniqueID: 3190340063
+    locked: 0
+  - name: Item
+    uniqueID: 1724226049
+    locked: 0
+  - name: WorldSpaceText
+    uniqueID: 2155769319
+    locked: 0
+  - name: Glass
+    uniqueID: 1229375085
+    locked: 0
+  - name: TacticalBooster
+    uniqueID: 2940529463
+    locked: 0
+  - name: Battery
+    uniqueID: 1895566483
+    locked: 0
+  - name: Spaceship
+    uniqueID: 3506883383
+    locked: 0
+  - name: Effects
+    uniqueID: 1194149441
+    locked: 0
+  - name: LevelArt
+    uniqueID: 171722203
+    locked: 0
+  - name: Basement
+    uniqueID: 1409792591
+    locked: 0
+  - name: LevelCount
+    uniqueID: 3936792255
+    locked: 0
+  - name: UIPanel
+    uniqueID: 2008502531
+    locked: 0

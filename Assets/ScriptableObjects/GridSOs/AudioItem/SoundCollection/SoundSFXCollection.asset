@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1cf0e77f590744d8405e4ca9d3c1c1, type: 3}
+  m_Name: SoundSFXCollection
+  m_EditorClassIdentifier: 
+  boosterSpawnSFX: {fileID: 11400000, guid: 0f3c39b9cc1ab494dada6d89f08396be, type: 2}
+  hammerSFX: {fileID: 11400000, guid: 418b6c6e047267b4d9f1825b99d53be4, type: 2}
+  insulatorDamageSFX: {fileID: 11400000, guid: e1135162b2b4e4743aaeafd385302c68, type: 2}
+  insulatorDestroySFX: {fileID: 11400000, guid: e476779f6554aaf4fb4e9860e0b996ec, type: 2}
+  itemBlastSFX: {fileID: 11400000, guid: ed980d6c9831a1c46bb512cedb0f03cf, type: 2}
+  itemFallSFX: {fileID: 11400000, guid: a73185fc595e3394f941130e41407f35, type: 2}
+  levelFailedSFX: {fileID: 11400000, guid: b90390ae911ad73449b1e53ddeb02fc8, type: 2}
+  levelSuccessSFX: {fileID: 11400000, guid: 8a64687c7bf91dd4b8224bedb25ddd1f, type: 2}
+  powerBoosterBlastSFX: {fileID: 11400000, guid: 7e500a216c34a8c4587bf3dbbeefb96f, type: 2}
+  registerDestroySFX: {fileID: 11400000, guid: bcbcc3231db313541b56daf2f372cb6f, type: 2}
+  registerSpawnSFX: {fileID: 11400000, guid: 53226771ede8888429a56bb50463087f, type: 2}
+  swapSFX: {fileID: 11400000, guid: bf2b6ba30103db642bce41f9f325e17a, type: 2}
+  strippedBoosterBlastSFX: {fileID: 11400000, guid: 5b2bd58c7e6577845b564b5ceeaec2bf, type: 2}
+  wrappedBoosterBlastSFX: {fileID: 11400000, guid: da250f1b1674eb54f92482a71cde0041, type: 2}
+  spaceshipEngineSFX: {fileID: 11400000, guid: c10faf45338b8094b804786d31a7ea9e, type: 2}
+  thalesHandSFX: {fileID: 11400000, guid: db6d65fc0edc2314e9edb5c9cc054abb, type: 2}
+  buttonPressedSFX: {fileID: 11400000, guid: bbdb4cc7f5d5f11488034106e379a394, type: 2}
+  panelOpenClosedSFX: {fileID: 11400000, guid: 5417bab612fe80648b2a2c8897491142, type: 2}

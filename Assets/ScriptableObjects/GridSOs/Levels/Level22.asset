@@ -1,0 +1,301 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e185952de0423a4eaaa1b64effe0ca8, type: 3}
+  m_Name: Level22
+  m_EditorClassIdentifier: 
+  width: 10
+  height: 10
+  itemList:
+  - {fileID: 11400000, guid: 0056a82693a936f468cd3216e21e185c, type: 2}
+  - {fileID: 11400000, guid: 5ad9ad0c5f957b6488fec3094f93676f, type: 2}
+  - {fileID: 11400000, guid: fccaa6596f85db1409fa6fa0e13b8521, type: 2}
+  - {fileID: 11400000, guid: bf7f9d3fdb32d084bb6854e5e3b276a4, type: 2}
+  - {fileID: 11400000, guid: 3c9d69da4fc01aa44a6e3154853b3fc3, type: 2}
+  strippedBoosterList:
+  - {fileID: 11400000, guid: 0749c270b3c382447a579518869a5c1d, type: 2}
+  - {fileID: 11400000, guid: 0292225f4b9a8b24da390e73ca208a21, type: 2}
+  - {fileID: 11400000, guid: 655ddf296cceda343a57c41841a350b6, type: 2}
+  - {fileID: 11400000, guid: 3470401cca8d38342a794da16819dd69, type: 2}
+  - {fileID: 11400000, guid: 01232a5d20935aa4488951c51254dc40, type: 2}
+  wrappedBoosterList:
+  - {fileID: 11400000, guid: 2759919fdc889a04892e71ecdd1f61b6, type: 2}
+  - {fileID: 11400000, guid: 6d1b832b2b97bda499b09f71406d013d, type: 2}
+  - {fileID: 11400000, guid: 25b8b67246190444685e89570e1042ab, type: 2}
+  - {fileID: 11400000, guid: 97e4baa73a45dfa4885681971f8a8613, type: 2}
+  - {fileID: 11400000, guid: c274e8cbe1a92a8429e61a7c8f4660ee, type: 2}
+  itemColorList:
+  - {r: 0.1764706, g: 0.3764706, b: 0.7372549, a: 1}
+  - {r: 0.4117647, g: 0.84313726, b: 0.05882353, a: 1}
+  - {r: 0.7490196, g: 0.1882353, b: 0.1764706, a: 1}
+  - {r: 0.7411765, g: 0.3764706, b: 0.13333334, a: 1}
+  - {r: 0.8980392, g: 0.39215687, b: 0.98039216, a: 1}
+  levelGridPositionList:
+  - x: 3
+    y: 7
+    itemSO: {fileID: 11400000, guid: 3c9d69da4fc01aa44a6e3154853b3fc3, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 4
+    y: 7
+    itemSO: {fileID: 11400000, guid: fccaa6596f85db1409fa6fa0e13b8521, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 5
+    y: 7
+    itemSO: {fileID: 11400000, guid: fccaa6596f85db1409fa6fa0e13b8521, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 6
+    y: 7
+    itemSO: {fileID: 11400000, guid: 0056a82693a936f468cd3216e21e185c, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 6
+    y: 6
+    itemSO: {fileID: 11400000, guid: 0056a82693a936f468cd3216e21e185c, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 5
+    y: 6
+    itemSO: {fileID: 11400000, guid: bf7f9d3fdb32d084bb6854e5e3b276a4, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 4
+    y: 6
+    itemSO: {fileID: 11400000, guid: bf7f9d3fdb32d084bb6854e5e3b276a4, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 3
+    y: 6
+    itemSO: {fileID: 11400000, guid: 3c9d69da4fc01aa44a6e3154853b3fc3, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 3
+    y: 5
+    itemSO: {fileID: 11400000, guid: 5ad9ad0c5f957b6488fec3094f93676f, type: 2}
+    hasGlass: 1
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 4
+    y: 5
+    itemSO: {fileID: 11400000, guid: fccaa6596f85db1409fa6fa0e13b8521, type: 2}
+    hasGlass: 1
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 5
+    y: 5
+    itemSO: {fileID: 11400000, guid: bf7f9d3fdb32d084bb6854e5e3b276a4, type: 2}
+    hasGlass: 1
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 6
+    y: 5
+    itemSO: {fileID: 11400000, guid: 3c9d69da4fc01aa44a6e3154853b3fc3, type: 2}
+    hasGlass: 1
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 6
+    y: 4
+    itemSO: {fileID: 11400000, guid: d13f60f901ac4f846bfe9c19b037bf84, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 2
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 5
+    y: 4
+    itemSO: {fileID: 11400000, guid: 7c410318ac2e10942b7e6e06496da642, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 1
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 4
+    y: 4
+    itemSO: {fileID: 11400000, guid: 7c410318ac2e10942b7e6e06496da642, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 1
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 3
+    y: 4
+    itemSO: {fileID: 11400000, guid: 7c410318ac2e10942b7e6e06496da642, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 1
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 2
+    y: 7
+    itemSO: {fileID: 11400000, guid: 5ad9ad0c5f957b6488fec3094f93676f, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 2
+    y: 6
+    itemSO: {fileID: 11400000, guid: 5ad9ad0c5f957b6488fec3094f93676f, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 2
+    y: 5
+    itemSO: {fileID: 11400000, guid: 0056a82693a936f468cd3216e21e185c, type: 2}
+    hasGlass: 1
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 2
+    y: 4
+    itemSO: {fileID: 11400000, guid: d13f60f901ac4f846bfe9c19b037bf84, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 2
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 2
+    y: 3
+    itemSO: {fileID: 11400000, guid: c9cffa0dc8ee6694daf97e94704585ea, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 1
+    cellProtectionLayer: 2
+  - x: 3
+    y: 3
+    itemSO: {fileID: 11400000, guid: d13f60f901ac4f846bfe9c19b037bf84, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 2
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 4
+    y: 3
+    itemSO: {fileID: 11400000, guid: c9cffa0dc8ee6694daf97e94704585ea, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 1
+    cellProtectionLayer: 2
+  - x: 5
+    y: 3
+    itemSO: {fileID: 11400000, guid: d13f60f901ac4f846bfe9c19b037bf84, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 1
+    blockerType: 2
+    hasCell: 0
+    cellProtectionLayer: 0
+  - x: 6
+    y: 3
+    itemSO: {fileID: 11400000, guid: c9cffa0dc8ee6694daf97e94704585ea, type: 2}
+    hasGlass: 0
+    isInsulator: 0
+    hasWheel: 0
+    isBlocker: 0
+    blockerType: 0
+    hasCell: 1
+    cellProtectionLayer: 2
+  blankItem: {fileID: 11400000, guid: 58030fbfb892faf418487692abfc5d7a, type: 2}
+  insulator: {fileID: 11400000, guid: c8b61a4529e97274b817b51619a85edb, type: 2}
+  register: {fileID: 11400000, guid: 788e2da0af1f5974c9de695b66af52fe, type: 2}
+  powerBooster: {fileID: 11400000, guid: 936ac37f063ed784a9c5b7950630458d, type: 2}
+  BlockerLevelOne: {fileID: 11400000, guid: 7c410318ac2e10942b7e6e06496da642, type: 2}
+  BlockerLeveltwo: {fileID: 11400000, guid: d13f60f901ac4f846bfe9c19b037bf84, type: 2}
+  CellLayerOne: {fileID: 11400000, guid: 7b61db79c4316d54693710662ef97c2e, type: 2}
+  CellLayerTwo: {fileID: 11400000, guid: c9cffa0dc8ee6694daf97e94704585ea, type: 2}
+  moveAmount: 20
+  targetCellCount: 3
